@@ -135,7 +135,7 @@
               <img
                 alt="..."
                 class="max-w-full rounded-lg shadow-lg"
-                src="https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=634&amp;q=80"
+                src="https://cdn-fortune.azureedge.net/images/bg-2.jpg"
               />
             </div>
             <div class="w-full md:w-6/12 ml-auto mr-auto px-4" data-aos="fade-left">
@@ -215,7 +215,7 @@
               <div class="px-6" data-aos="flip-up">
                 <img
                   alt="..."
-                  src="https://cs110032002b7d8a44d.blob.core.windows.net/images/3.jpg"
+                  src="https://cdn-fortune.azureedge.net/images/3.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
@@ -237,7 +237,7 @@
               <div class="px-6"  data-aos="flip-up">
                 <img
                   alt="..."
-                  src="https://cs110032002b7d8a44d.blob.core.windows.net/images/5.jpg"
+                  src="https://cdn-fortune.azureedge.net/images/5.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
@@ -258,7 +258,7 @@
               <div class="px-6"  data-aos="flip-up">
                 <img
                   alt="..."
-                  src="https://cs110032002b7d8a44d.blob.core.windows.net/images/6.jpg"
+                  src="https://cdn-fortune.azureedge.net/images/6.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />
@@ -279,7 +279,7 @@
               <div class="px-6" data-aos="flip-up">
                 <img
                   alt="..."
-                  src="https://cdn-fortune.azureedge.net/images/1.webp"
+                  src="https://cdn-fortune.azureedge.net/images/1.jpg"
                   class="shadow-lg rounded-full max-w-full mx-auto"
                   style="max-width: 120px;"
                 />

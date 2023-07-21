@@ -1,5 +1,7 @@
 import { createApp } from "vue";
 import { createWebHistory, createRouter } from "vue-router";
+import Vue from 'vue'
+import VueGtag from 'vue-gtag'
 
 // views
 
@@ -29,3 +31,11 @@ const router = createRouter({
 });
 
 createApp(App).use(router).mount("#app");
+
+Vue.use(VueGtag, {
+  config: {
+    id: 'G-TYVMZG9483',
+  },
+}, router)
+
+this.$gtag.event('main.js', { method: 'enter' })
